@@ -1,2 +1,2 @@
 # AppReactJs
-React App1 for beginner
+App React Js for beginner
